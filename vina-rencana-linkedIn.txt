@@ -3,6 +3,7 @@ RENCANA LINKEDIN
   + pemrograman web
   + front end web developer
       = css
+      = html
 - buat personal branding
 - EDIT TAGLINE
     = collab
