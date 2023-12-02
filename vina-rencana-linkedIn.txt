@@ -2,6 +2,9 @@ RENCANA LINKEDIN
 - POST SERTIFIKAT DICODING 
   + pemrograman web
   + front end web developer
+      = css
 - buat personal branding
 - EDIT TAGLINE
+    = collab
 - POST KEGIATAN VOLUNTEER
+- post kegiatan instagram
