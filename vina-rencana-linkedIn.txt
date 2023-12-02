@@ -2,6 +2,8 @@ RENCANA LINKEDIN
 - POST SERTIFIKAT DICODING 
   + pemrograman web
   + front end web developer
-- buat personal branding
+    = php
+    = js
 - EDIT TAGLINE
 - POST KEGIATAN VOLUNTEER
+- post kegiatan smstr 1
